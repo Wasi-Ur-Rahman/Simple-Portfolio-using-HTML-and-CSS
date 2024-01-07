@@ -1,0 +1,23 @@
+.information {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.information img {
+    width: 100%;
+}
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+.fullname {
+    color: goldenrod;
+}
+h3 {
+    font-family: 'Poppins', sans-serif;
+}
+p {
+    font-family: 'Poppins', sans-serif;
+
+}
